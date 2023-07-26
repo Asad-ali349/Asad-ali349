@@ -38,12 +38,16 @@ The "LMS" is an innovative Learning Management System designed to provide a seam
 💼 Experience:
 
 G7 Technologies: (14-March-2020)
+
 Role: Android Developer 
+
 Description: 
 Throughout my tenure, I have spearheaded the creation of two impactful mobile applications, namely "TaskCash" and "Officana," each designed to enhance user experiences and streamline operations.
 
 Qubitars : (12-june-2021)
+
 Role: Web Developer
+
 Description:
 During my tenure at Qubitars, I served as a Full Stack Web Developer and was responsible for the successful development and implementation of various websites and web applications.
 
