@@ -58,7 +58,12 @@ I'm an avid learner and tech enthusiast. Exploring emerging technologies and sta
 
 📫 Let's Connect:
 
-I'm always open to new opportunities, collaborations, and discussions related to web development. Feel free to reach out to me via email at asadking066@gmail.com or connect with me on LinkedIn [linkedin.com/in/yourprofile](https://www.linkedin.com/in/asad-ali-66a8311b5/) or connect with on fiverr https://www.fiverr.com/asadking066.
+I'm always open to new opportunities, collaborations, and discussions related to web development. Feel free to reach out to me via:
+
+email at asadking066@gmail.com 
+LinkedIn [Linked Profile](https://www.linkedin.com/in/asad-ali-66a8311b5/)
+Fiverr [Fiverr Profile](https://www.fiverr.com/asadking066) 
+Upwork [Upwork Profile](https://www.upwork.com/freelancers/~01fc75605863f33479?viewMode=1).
 
 ⭐ Thank You!
 
