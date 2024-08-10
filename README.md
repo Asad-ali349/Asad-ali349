@@ -1,75 +1,27 @@
-👋 Hello there! Welcome to my GitHub repository. I'm ASAD, a Full Stack Developer with a passion for building exceptional web applications. I believe in the power of technology to transform ideas into reality, and I constantly strive to deliver high-quality solutions.
-
-🚀 My Expertise:
-
-Frontend Development: HTML, CSS, Bootstrap, and JavaScript are my go-to tools for crafting captivating and responsive user interfaces. I take great pride in creating visually appealing designs that enhance user experiences.
-
-React.js: As a specialist in React.js, I build scalable and dynamic single-page applications that provide seamless interactions and optimal performance.
-
-Backend Development: Laravel and PHP are my weapons of choice for developing robust server-side logic and implementing complex functionalities.
-
-Node.js | Express.js: Leveraging the power of Node.js and Express.js, I create real-time applications that can handle high concurrency and deliver fast responses.
-
-Database Management: Whether it's SQL with MySQL or NoSQL with MongoDB, I ensure efficient data storage and retrieval, supporting the smooth functioning of applications.
-
-🛠️ Projects:
-
-Here are some of the projects I've worked on:
-
-TaskCash:
-"TaskCash" is a dynamic mobile application engineered to enable users to earn rewards through engagement activities such as liking, commenting, and subscribing. By completing assigned tasks, users are compensated accordingly, fostering a rewarding and interactive platform.
-
-Officana:
-"Officana" serves as an efficient attendance management application. My contribution to this project involved developing a comprehensive record-keeping system for attendance tracking. Additionally, I integrated Google Maps functionality to ensure precise office location verification, providing businesses with an effective means to monitor employee presence.
-
-Cystan:
-"Cystan" is a sophisticated web application tailored for legal professionals, particularly advocates, to efficiently manage their clients. As part of this project, I integrated Google Maps functionality to maintain accurate records of client locations, optimizing client management processes. Additionally, I incorporated secure Stripe payment methods to facilitate seamless and secure financial transactions within the platform.
-
-UIG LEASING:
-"UIG LEASING" is a comprehensive leasing management system designed to facilitate the buying and selling of products. My involvement in this project included the integration of Plaid API to verify users' bank accounts, ensuring a reliable and streamlined experience for all users during financial transactions.
-
-Ahmed House Deal:
-This web-based Property Management System, "Ahmed House Deal," was developed to effectively record and manage purchased properties. It allowed users to track expenses related to the properties and facilitated smooth property sales. This system served as a valuable tool for property investors and real estate professionals.
-
-LMS (Learning Management System):
-The "LMS" is an innovative Learning Management System designed to provide a seamless online learning experience. It offers a range of features and tools to facilitate course creation, student enrollment, and progress tracking. This platform plays a pivotal role in the education and training sectors.
+# 💫 About Me:
+Hi, I'm Asad Ali, a Full Stack Web Developer with 3.5 years of experience. My expertise spans multiple programming languages and frameworks including TypeScript, JavaScript, HTML, CSS, PHP, Laravel, MERN (MongoDB, Express, React, Node), Python, and NEST JS. I'm also proficient in databases like MySQL, PostgreSQL, and MongoDB, and have hands-on experience with tools and libraries such as Bootstrap, Material UI, Redux, and web scraping techniques.
 
 
-💼 Experience:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asad-ali-66a8311b5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12464108) 
 
-G7 Technologies: (14-March-2020)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asad-ali349&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asad-ali349&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-ali349&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Role: Android Developer 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Asad-ali349&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Description: 
-Throughout my tenure, I have spearheaded the creation of two impactful mobile applications, namely "TaskCash" and "Officana," each designed to enhance user experiences and streamline operations.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Qubitars : (12-june-2021)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Asad-ali349&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Role: Web Developer
+---
+[![](https://visitcount.itsvg.in/api?id=Asad-ali349&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Description:
-During my tenure at Qubitars, I served as a Full Stack Web Developer and was responsible for the successful development and implementation of various websites and web applications.
-
-
-🌱 Interests:
-
-I'm an avid learner and tech enthusiast. Exploring emerging technologies and staying up-to-date with the latest trends in web development is something I deeply enjoy. I also thrive in collaborative environments and enjoy participating in hackathons and coding challenges.
-
-📫 Let's Connect:
-
-I'm always open to new opportunities, collaborations, and discussions related to web development. Feel free to reach out to me via:
-
-email at asadking066@gmail.com 
-LinkedIn [Linked Profile](https://www.linkedin.com/in/asad-ali-66a8311b5/)
-Fiverr [Fiverr Profile](https://www.fiverr.com/asadking066) 
-Upwork [Upwork Profile](https://www.upwork.com/freelancers/~01fc75605863f33479?viewMode=1).
-
-⭐ Thank You!
-
-Thank you for visiting my GitHub profile and exploring my projects. If you find something interesting or have any feedback, I'd love to hear from you. Let's create something amazing together! 😊
-
-<!---
-Asad-ali349/Asad-ali349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
