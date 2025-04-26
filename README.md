@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Asad Ali, a Full Stack Web Developer with 3.5 years of experience. My expertise spans multiple programming languages and frameworks including TypeScript, JavaScript, HTML, CSS, PHP, Laravel, MERN (MongoDB, Express, React, Node), Python, and NEST JS. I'm also proficient in databases like MySQL, PostgreSQL, and MongoDB, and have hands-on experience with tools and libraries such as Bootstrap, Material UI, Redux, and web scraping techniques.
+Hi, I'm Asad Ali, a Full Stack Web Developer with 4.5 years of experience. My expertise spans multiple programming languages and frameworks including TypeScript, JavaScript, HTML, CSS, PHP, Laravel, MERN (MongoDB, Express, React, Node), Python, and NEST JS. I'm also proficient in databases like MySQL, PostgreSQL, and MongoDB, and have hands-on experience with tools and libraries such as Bootstrap, Material UI, Redux, and web scraping techniques.
 
 
 ## 🌐 Socials:
